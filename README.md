@@ -1,4 +1,11 @@
-# Who's on the Ballot
+## Obtaining an API Key for Congress.gov
+To sign up for an API key for Congress.gov, follow these steps:
+1. Visit the [Congress.gov API sign-up page](https://api.congress.gov/sign-up/).
+2. Provide your first name, last name, and email address.
+3. Optionally, describe how you will use the APIs.
+4. Click the 'Signup' button to complete the process.
+
+Once you have your API key, you can use it to access Congress.gov data in your applications.# Who's on the Ballot
 
 ## Description
 This app shows you the things that elected officials have voted on and done in their political career.
